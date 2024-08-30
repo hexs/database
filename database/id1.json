@@ -3,12 +3,12 @@
     "mc_name": "1x01",
     "fixed_move": "fixed",
     "res": [
-        80,
-        30,
-        0,
+        19,
         7,
-        23,
-        95
+        76,
+        55,
+        91,
+        39
     ],
     "status": "ok",
     "status_detail": "...."
