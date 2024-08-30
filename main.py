@@ -9,12 +9,12 @@ while True:
         "mc_name": "1x01",
         "fixed_move": "fixed",
         "res": [
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100)
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000)
         ],
         "status": "ok",
         "status_detail": "....",
@@ -25,12 +25,12 @@ while True:
         "mc_name": "2x01",
         "fixed_move": "fixed",
         "res": [
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100),
-            random.randint(0, 100)
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000),
+            random.randint(0, 1000)
         ],
         "status": "ok",
         "status_detail": "....",
